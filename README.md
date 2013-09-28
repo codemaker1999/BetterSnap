@@ -9,5 +9,5 @@ This script will virtually divide the display into an n by m grid, where n and m
 When executed, the borders of all open windows will snap to the nearest grid line, thereby allowing a much more customizable window layout.  
 The borders also overlap to squeeze a few more pixels out of the screen space.
 ####Usage
-Roughly position your windows
+Roughly position your windows  
 Run the script
